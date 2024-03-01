@@ -29,7 +29,7 @@ dev_dependencies:
   flutter_gen: ^5.4.0
   flutter_test:
     sdk: flutter
-  mocktail: ^0.3.0
+  mocktail: ^1.0.3
   flutter_lints: any
 
 
